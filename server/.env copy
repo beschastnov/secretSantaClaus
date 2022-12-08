@@ -1,0 +1,5 @@
+PORT=3001
+DB_NAME=santaclaus
+DB_USER=mikle
+DB_PASS=null
+SESSION_SECRET=santa
